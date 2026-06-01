@@ -1,0 +1,58 @@
+Order ID,Customer Name,Date,Time,Items,Quantity,Subtotal,GST,Delivery,Tip,Final Bill,Payment Mode,UPI ID
+a0e772ee,Jasmeet,2025-11-24,23:18:45,"Butter Chicken (Half), Kitkat Shake",2,269,13.45,20,40,342.45,Cash on Delivery (COD),
+80fd8716,jas,2025-11-25,00:38:44,Dal Tadka,Half,1,70,70,70,3.5,20,0,93.5,Cash on Delivery (COD),
+522c3857,jas,2025-11-25,00:44:44,Burger mania,,1,200,200,449,22.45,20,10,501.45,Cash on Delivery (COD),
+522c3857,jas,2025-11-25,00:44:44,Family combo,,1,249,249,449,22.45,20,10,501.45,Cash on Delivery (COD),
+aec4da40,jassss,2025-11-25,01:33:38,Panipuri,Half,1,20,20,199,9.95,20,1,229.95,Cash on Delivery (COD),
+aec4da40,jassss,2025-11-25,01:33:38,Jasbytes Special Juice,,1,179,179,199,9.95,20,1,229.95,Cash on Delivery (COD),
+7c9f01c6,jass,2025-11-25,01:35:10,Jasbytes Special Juice,,1,179,179,179,8.95,20,0,207.95,Cash on Delivery (COD),
+c5728426,jass,2025-11-25,01:48:08,Jasbytes Special Juice,,1,179,179,179,8.95,20,1,208.95,Cash on Delivery (COD),
+6055ac55,jass,2025-11-25,01:54:50,Veg Biryani,Half,1,100,100,100,5.0,20,0,125.0,Cash on Delivery (COD),
+cd84a61e,jass,2025-11-25,01:55:14,Veg Biryani,Half,1,100,100,100,5.0,20,0,125.0,Cash on Delivery (COD),
+bf3d918a,ravneet,2025-11-25,02:04:20,Fusion meal,,1,160,160,320,16.0,20,0,356.0,Cash on Delivery (COD),
+bf3d918a,ravneet,2025-11-25,02:04:20,Fusion meal,,1,160,160,320,16.0,20,0,356.0,Cash on Delivery (COD),
+ea1d8365,ravneet,2025-11-25,02:05:11,Fusion meal,,1,160,160,320,16.0,20,0,356.0,Cash on Delivery (COD),
+ea1d8365,ravneet,2025-11-25,02:05:11,Fusion meal,,1,160,160,320,16.0,20,0,356.0,Cash on Delivery (COD),
+1984fe11,ravneet,2025-11-25,02:05:30,Fusion meal,,1,160,160,320,16.0,20,0,356.0,Cash on Delivery (COD),
+1984fe11,ravneet,2025-11-25,02:05:30,Fusion meal,,1,160,160,320,16.0,20,0,356.0,Cash on Delivery (COD),
+7ff60936,123.45,2025-11-25,08:19:33,Mojito,,1,89,89,89,4.45,20,10,123.45,Cash on Delivery (COD),
+28b1aa91,jas,2025-11-25,08:40:58,Paneer Butter Masala,Half,1,120,120,120,6.0,20,0,146.0,Cash on Delivery (COD),
+5cdaa0ac,jasmeet,2025-11-25,09:56:21,Paneer Butter Masala,Half,1,120,120,419,20.95,20,10,469.95,Cash on Delivery (COD),
+5cdaa0ac,jasmeet,2025-11-25,09:56:21,Paneer Butter Masala,Half,1,120,120,419,20.95,20,10,469.95,Cash on Delivery (COD),
+5cdaa0ac,jasmeet,2025-11-25,09:56:21,Jasbytes Special Juice,,1,179,179,419,20.95,20,10,469.95,Cash on Delivery (COD),
+5cf21a3e,jas,2025-11-25,10:32:55,Paneer Butter Masala,Half,1,120,120,120,6.0,20,0,146.0,Cash on Delivery (COD),
+858e1abd,jas,2025-11-25,10:36:06,Veg Biryani,Half,1,100,100,100,5.0,20,0,125.0,Cash on Delivery (COD),
+5496d231,lap,2025-11-25,10:44:36,Veg Biryani,Half,1,100,100,100,5.0,20,0,125.0,Cash on Delivery (COD),
+d6572983,jasmeet,2025-11-25,11:30:00,Chole Bhature,Half,1,80,80,379,18.95,20,10,427.95,Cash on Delivery (COD),
+d6572983,jasmeet,2025-11-25,11:30:00,Paneer Butter Masala,Half,1,120,120,379,18.95,20,10,427.95,Cash on Delivery (COD),
+d6572983,jasmeet,2025-11-25,11:30:00,Jasbytes Special Juice,,1,179,179,379,18.95,20,10,427.95,Cash on Delivery (COD),
+05fd17f0,Jasmeet,2025-11-25,21:34:11,Paneer Butter Masala,Half,1,120,120,609,30.45,20,10,669.45,Cash on Delivery (COD),
+05fd17f0,Jasmeet,2025-11-25,21:34:11,Chicken Biryani,Half,1,130,130,609,30.45,20,10,669.45,Cash on Delivery (COD),
+05fd17f0,Jasmeet,2025-11-25,21:34:11,Jasbytes Special Juice,,1,179,179,609,30.45,20,10,669.45,Cash on Delivery (COD),
+05fd17f0,Jasmeet,2025-11-25,21:34:11,Veg combo,,1,180,180,609,30.45,20,10,669.45,Cash on Delivery (COD),
+6cfded9b,.,2025-11-25,21:36:53,Paneer Butter Masala,Half,1,120,120,219,10.95,20,0,249.95,Cash on Delivery (COD),
+6cfded9b,.,2025-11-25,21:36:53,Blue Lagoon,,1,99,99,219,10.95,20,0,249.95,Cash on Delivery (COD),
+5a82ea08,jas,2025-12-29,13:37:05,Veg Biryani,Half,1,100,100,100,5.0,20,90,215.0,Cash on Delivery (COD),
+a90e5887,146,2025-12-29,14:26:00,Paneer Butter Masala,Half,1,120,120,120,6.0,20,0,146.0,Cash on Delivery (COD),
+1533169a,k,2025-12-29,14:35:31,Veg Biryani,Half,1,100,100,100,5.0,20,0,125.0,Cash on Delivery (COD),
+9d364561,h,2025-12-29,14:38:23,Veg Biryani,Half,1,100,100,100,5.0,20,0,125.0,5.0,3
+d95ce817,jasmeet kaur,2025-12-29,14:39:32,Veg Biryani,Half,1,100,100,100,5.0,20,0,125.0,5.0,9580 502973
+3b708dfe,jasmeet kaur,2025-12-29,14:49:43,Blue Lagoon,,1,99,99,99,4.95,20,0,123.95,5.0,9580502973
+82a3496a,jasmeet kaur,2025-12-29,14:53:54,Blue Lagoon,,1,99,99,99,4.95,20,0,123.95,5.0,9580502973
+f70caa39,Ravneet Kaur,2026-03-26,21:48:02,Fusion meal,,1,160,160,339,16.95,20,10,385.95,15.0,9555388605
+f70caa39,Ravneet Kaur,2026-03-26,21:48:02,Jasbytes Special Juice,,1,179,179,339,16.95,20,10,385.95,15.0,9555388605
+b842f9ef,Ravneet Kaur,2026-03-26,21:52:44,Fusion meal,,1,160,160,339,16.95,20,10,385.95,15.0,9555388605
+b842f9ef,Ravneet Kaur,2026-03-26,21:52:44,Jasbytes Special Juice,,1,179,179,339,16.95,20,10,385.95,15.0,9555388605
+40c2c3c0,Ravneet Kaur,2026-03-26,21:54:07,Fusion meal,,1,160,160,339,16.95,20,10,385.95,15.0,9555388605
+40c2c3c0,Ravneet Kaur,2026-03-26,21:54:07,Jasbytes Special Juice,,1,179,179,339,16.95,20,10,385.95,15.0,9555388605
+13123607,rav,2026-03-26,22:33:55,Paneer Butter Masala,Half,1,120,120,120,6.0,20,0,146.0,5.0,9555388605
+a82c46d7,rav,2026-03-26,22:35:44,Paneer Butter Masala,Half,1,120,120,120,6.0,20,0,146.0,5.0,9555388605
+2f598206,rav,2026-03-26,22:35:59,Paneer Butter Masala,Half,1,120,120,120,6.0,20,0,146.0,5.0,9555388605
+10d57f4c,jas,2026-03-26,23:55:37,Dal Tadka,Full,1,120,120,649,32.45,0,0.01,681.46,Cash,30.0,9555388605,,
+10d57f4c,jas,2026-03-26,23:55:37,Chicken Biryani,Full,1,210,210,649,32.45,0,0.01,681.46,Cash,30.0,9555388605,,
+10d57f4c,jas,2026-03-26,23:55:37,Momos,Full,1,50,50,649,32.45,0,0.01,681.46,Cash,30.0,9555388605,,
+10d57f4c,jas,2026-03-26,23:55:37,Mojito,,1,89,89,649,32.45,0,0.01,681.46,Cash,30.0,9555388605,,
+10d57f4c,jas,2026-03-26,23:55:37,Veg combo,,1,180,180,649,32.45,0,0.01,681.46,Cash,30.0,9555388605,,
+1880cdeb,Anurag Gupta,2026-03-27,11:40:11,Paneer Butter Masala,Full,1,200,200,499,24.95,0,0.0,523.95,Cash,25.0,7348031846,,
+1880cdeb,Anurag Gupta,2026-03-27,11:40:11,Dal Tadka,Full,1,120,120,499,24.95,0,0.0,523.95,Cash,25.0,7348031846,,
+1880cdeb,Anurag Gupta,2026-03-27,11:40:11,Jasbytes Special Juice,,1,179,179,499,24.95,0,0.0,523.95,Cash,25.0,7348031846,,
